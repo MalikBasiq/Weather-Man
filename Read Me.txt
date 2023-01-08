@@ -1,0 +1,2 @@
+NOTE::::Please First install this package by using command "gem install colorize " in order to see colorize symbols otherwise you will get an error."
+thank you
